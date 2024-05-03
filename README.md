@@ -1,5 +1,6 @@
 # Image Resizer project
-This is a photo resizing web application, created using reactJs. 
+This is a photo resizing web application, created using reactJs. <br/>
+**Live :** https://imgresizewithashu.netlify.app/
 <br/><br/>
 **Image 1 :** <br/><br/>
   <img width="960" alt="img" src="https://github.com/httpsashu404/ImageResizer/assets/159816902/79e28848-e286-4ce6-8bf6-def8e640e680">
